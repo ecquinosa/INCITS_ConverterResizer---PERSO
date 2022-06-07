@@ -1,0 +1,40 @@
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.exe
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.pdb
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.xml
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\Sagem.MorphoKit.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\Morpho.MorphoAcquisition.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\ar\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\de\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\es\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\fr\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\it\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\pt\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\vi\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.Form1.resources
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.Resources.resources
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.vbproj.GenerateResource.Cache
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.exe
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.xml
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.pdb
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.exe.config
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.exe.config
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.exe
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.xml
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.pdb
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.exe
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.pdb
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\INCITS_ConverterResizer.xml
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\Sagem.MorphoKit.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\Morpho.MorphoAcquisition.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\ar\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\de\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\es\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\fr\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\it\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\pt\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\bin\Debug\vi\Morpho.MorphoAcquisition.resources.dll
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.Form1.resources
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.Resources.resources
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.vbproj.GenerateResource.Cache
+D:\EDEL\ACC\Projects\INCITS_ConverterResizer - PERSO\INCITS_ConverterResizer\obj\x86\Debug\INCITS_ConverterResizer.vbprojResolveAssemblyReference.cache
